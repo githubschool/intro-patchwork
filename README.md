@@ -1,6 +1,6 @@
 # Intro-Patchwork
 
-- Class Date: November 25th 2019
+- Class Date: November 28th 2019
 - Facilitator: @rwnfoo
 
 <details>
