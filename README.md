@@ -1,4 +1,4 @@
-# MMU-Intro
+# Intro-Patchwork
 
 - Class Date: November 25th 2019
 - Facilitator: @rwnfoo
